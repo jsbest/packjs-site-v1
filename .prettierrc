@@ -1,0 +1,15 @@
+{
+    "semi": true,
+    "tabWidth": 4,
+    "printWidth": 120,
+    "singleQuote": true,
+    "jsxBracketSameLine": true,
+    "overrides": [
+        {
+            "options": {
+                "tabWidth": 2
+            },
+            "files": ["*.md", "*.json", "*.yml", "*.yaml"]
+        }
+    ]
+}
