@@ -27,7 +27,7 @@ nav:
 
    release v1.4.0
 
-   packjs is a intelligently and lightweight packaging tool, powered by webpack.js
+   packjs is an intelligently and lightweight packaging tool, powered by webpack.js
 
 ==============================================================
 

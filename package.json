@@ -20,10 +20,10 @@
     "docs:preview": "dumi dev",
     "docs:build": "dumi build"
   },
-  "homepage": "https://packjs.tagee.cc",
+  "homepage": "https://packjs.js.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tageecc/packjs.git"
+    "url": "https://github.com/packjs-org/packjs.git"
   },
   "author": {
     "name": "tageecc",
